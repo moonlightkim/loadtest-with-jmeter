@@ -1,0 +1,61 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1706870264395,681,homepage,200,OK,Thread Group 1-2,text,true,,761021,236,3,3,https://www.youtube.com/,188,0,133
+1706870264395,188,homepage-0,301,Moved Permanently,Thread Group 1-2,text,true,,1144,116,3,3,https://youtube.com/,188,0,133
+1706870264584,492,homepage-1,200,OK,Thread Group 1-2,text,true,,759877,120,3,3,https://www.youtube.com/,257,0,131
+1706870265078,404,trendingpage,200,OK,Thread Group 1-2,text,true,,1230480,262,4,4,https://www.youtube.com/feed/trending,58,0,0
+1706870265078,58,trendingpage-0,301,Moved Permanently,Thread Group 1-2,text,true,,1157,129,4,4,https://youtube.com/feed/trending,58,0,0
+1706870265136,346,trendingpage-1,200,OK,Thread Group 1-2,text,true,,1229323,133,4,4,https://www.youtube.com/feed/trending,68,0,0
+1706870263978,1759,homepage,200,OK,Thread Group 1-1,text,true,,723407,236,3,3,https://www.youtube.com/,535,0,472
+1706870263978,539,homepage-0,301,Moved Permanently,Thread Group 1-1,text,true,,1144,116,3,3,https://youtube.com/,535,0,472
+1706870264519,1218,homepage-1,200,OK,Thread Group 1-1,text,true,,722263,120,3,3,https://www.youtube.com/,294,0,158
+1706870265394,642,homepage,200,OK,Thread Group 1-4,text,true,,723067,236,4,4,https://www.youtube.com/,176,0,130
+1706870265394,176,homepage-0,301,Moved Permanently,Thread Group 1-4,text,true,,1144,116,4,4,https://youtube.com/,176,0,130
+1706870265571,465,homepage-1,200,OK,Thread Group 1-4,text,true,,721923,120,4,4,https://www.youtube.com/,207,0,86
+1706870265738,424,trendingpage,200,OK,Thread Group 1-1,text,true,,1227476,262,4,4,https://www.youtube.com/feed/trending,52,0,0
+1706870265738,52,trendingpage-0,301,Moved Permanently,Thread Group 1-1,text,true,,1157,129,4,4,https://youtube.com/feed/trending,52,0,0
+1706870265790,372,trendingpage-1,200,OK,Thread Group 1-1,text,true,,1226319,133,4,4,https://www.youtube.com/feed/trending,76,0,0
+1706870264893,1419,homepage,200,OK,Thread Group 1-3,text,true,,719745,236,3,3,https://www.youtube.com/,164,0,115
+1706870264893,164,homepage-0,301,Moved Permanently,Thread Group 1-3,text,true,,1144,116,3,3,https://youtube.com/,164,0,115
+1706870265058,1254,homepage-1,200,OK,Thread Group 1-3,text,true,,718601,120,3,3,https://www.youtube.com/,199,0,85
+1706870266036,442,trendingpage,200,OK,Thread Group 1-4,text,true,,1227984,262,4,4,https://www.youtube.com/feed/trending,54,0,0
+1706870266036,54,trendingpage-0,301,Moved Permanently,Thread Group 1-4,text,true,,1157,129,4,4,https://youtube.com/feed/trending,54,0,0
+1706870266091,387,trendingpage-1,200,OK,Thread Group 1-4,text,true,,1226827,133,4,4,https://www.youtube.com/feed/trending,70,0,0
+1706870265892,1054,homepage,200,OK,Thread Group 1-5,text,true,,724725,236,4,4,https://www.youtube.com/,238,0,131
+1706870265892,238,homepage-0,301,Moved Permanently,Thread Group 1-5,text,true,,1144,116,4,4,https://youtube.com/,238,0,131
+1706870266131,815,homepage-1,200,OK,Thread Group 1-5,text,true,,723581,120,4,4,https://www.youtube.com/,317,0,171
+1706870266313,721,trendingpage,200,OK,Thread Group 1-3,text,true,,1229810,262,4,4,https://www.youtube.com/feed/trending,49,0,0
+1706870266313,49,trendingpage-0,301,Moved Permanently,Thread Group 1-3,text,true,,1157,129,4,4,https://youtube.com/feed/trending,49,0,0
+1706870266363,671,trendingpage-1,200,OK,Thread Group 1-3,text,true,,1228653,133,4,4,https://www.youtube.com/feed/trending,85,0,0
+1706870266947,532,trendingpage,200,OK,Thread Group 1-5,text,true,,1228532,262,4,4,https://www.youtube.com/feed/trending,105,0,0
+1706870266947,105,trendingpage-0,301,Moved Permanently,Thread Group 1-5,text,true,,1157,129,4,4,https://youtube.com/feed/trending,105,0,0
+1706870267053,426,trendingpage-1,200,OK,Thread Group 1-5,text,true,,1227375,133,4,4,https://www.youtube.com/feed/trending,73,0,0
+1706870266395,1323,homepage,200,OK,Thread Group 1-6,text,true,,723940,236,3,3,https://www.youtube.com/,332,0,248
+1706870266395,332,homepage-0,301,Moved Permanently,Thread Group 1-6,text,true,,1144,116,3,3,https://youtube.com/,332,0,248
+1706870266728,990,homepage-1,200,OK,Thread Group 1-6,text,true,,722796,120,3,3,https://www.youtube.com/,267,0,124
+1706870267719,453,trendingpage,200,OK,Thread Group 1-6,text,true,,1229089,262,4,4,https://www.youtube.com/feed/trending,58,0,0
+1706870267719,58,trendingpage-0,301,Moved Permanently,Thread Group 1-6,text,true,,1157,129,4,4,https://youtube.com/feed/trending,58,0,0
+1706870267778,394,trendingpage-1,200,OK,Thread Group 1-6,text,true,,1227932,133,4,4,https://www.youtube.com/feed/trending,74,0,0
+1706870266890,1296,homepage,200,OK,Thread Group 1-7,text,true,,722171,236,3,3,https://www.youtube.com/,226,0,161
+1706870266890,226,homepage-0,301,Moved Permanently,Thread Group 1-7,text,true,,1144,116,3,3,https://youtube.com/,226,0,161
+1706870267117,1069,homepage-1,200,OK,Thread Group 1-7,text,true,,721027,120,3,3,https://www.youtube.com/,298,0,148
+1706870268187,424,trendingpage,200,OK,Thread Group 1-7,text,true,,1229712,262,4,4,https://www.youtube.com/feed/trending,57,0,0
+1706870268187,57,trendingpage-0,301,Moved Permanently,Thread Group 1-7,text,true,,1157,129,4,4,https://youtube.com/feed/trending,57,0,0
+1706870268244,367,trendingpage-1,200,OK,Thread Group 1-7,text,true,,1228555,133,4,4,https://www.youtube.com/feed/trending,68,0,0
+1706870267391,1240,homepage,200,OK,Thread Group 1-8,text,true,,715229,236,3,3,https://www.youtube.com/,216,0,167
+1706870267391,216,homepage-0,301,Moved Permanently,Thread Group 1-8,text,true,,1144,116,3,3,https://youtube.com/,216,0,167
+1706870267608,1023,homepage-1,200,OK,Thread Group 1-8,text,true,,714085,120,3,3,https://www.youtube.com/,228,0,117
+1706870268631,442,trendingpage,200,OK,Thread Group 1-8,text,true,,1229001,262,3,3,https://www.youtube.com/feed/trending,41,0,0
+1706870268631,41,trendingpage-0,301,Moved Permanently,Thread Group 1-8,text,true,,1157,129,3,3,https://youtube.com/feed/trending,41,0,0
+1706870268672,401,trendingpage-1,200,OK,Thread Group 1-8,text,true,,1227844,133,3,3,https://www.youtube.com/feed/trending,63,0,0
+1706870268395,725,homepage,200,OK,Thread Group 1-10,text,true,,413497,236,2,2,https://www.youtube.com/,158,0,108
+1706870268395,158,homepage-0,301,Moved Permanently,Thread Group 1-10,text,true,,1144,116,2,2,https://youtube.com/,158,0,108
+1706870268553,567,homepage-1,200,OK,Thread Group 1-10,text,true,,412353,120,2,2,https://www.youtube.com/,300,0,170
+1706870267892,1257,homepage,200,OK,Thread Group 1-9,text,true,,721165,236,2,2,https://www.youtube.com/,262,0,174
+1706870267892,262,homepage-0,301,Moved Permanently,Thread Group 1-9,text,true,,1144,116,2,2,https://youtube.com/,262,0,174
+1706870268155,994,homepage-1,200,OK,Thread Group 1-9,text,true,,720021,120,2,2,https://www.youtube.com/,254,0,133
+1706870269121,444,trendingpage,200,OK,Thread Group 1-10,text,true,,1230309,262,2,2,https://www.youtube.com/feed/trending,53,0,0
+1706870269121,53,trendingpage-0,301,Moved Permanently,Thread Group 1-10,text,true,,1157,129,2,2,https://youtube.com/feed/trending,53,0,0
+1706870269174,391,trendingpage-1,200,OK,Thread Group 1-10,text,true,,1229152,133,2,2,https://www.youtube.com/feed/trending,94,0,0
+1706870269150,480,trendingpage,200,OK,Thread Group 1-9,text,true,,1238079,262,1,1,https://www.youtube.com/feed/trending,56,0,0
+1706870269150,56,trendingpage-0,301,Moved Permanently,Thread Group 1-9,text,true,,1157,129,1,1,https://youtube.com/feed/trending,56,0,0
+1706870269207,423,trendingpage-1,200,OK,Thread Group 1-9,text,true,,1236922,133,1,1,https://www.youtube.com/feed/trending,75,0,0
