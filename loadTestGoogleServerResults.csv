@@ -1,0 +1,61 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1706841712669,774,HTTP Request,200,OK,Thread Group of 20 users 1-3,text,true,,21342,234,6,6,https://www.google.com/,351,0,292
+1706841712669,359,HTTP Request-0,301,Moved Permanently,Thread Group of 20 users 1-3,text,true,,832,115,6,6,https://google.com/,351,0,292
+1706841713030,413,HTTP Request-1,200,OK,Thread Group of 20 users 1-3,text,true,,20510,119,6,6,https://www.google.com/,378,0,296
+1706841712418,1036,HTTP Request,200,OK,Thread Group of 20 users 1-2,text,true,,21343,234,6,6,https://www.google.com/,602,0,543
+1706841712418,610,HTTP Request-0,301,Moved Permanently,Thread Group of 20 users 1-2,text,true,,832,115,6,6,https://google.com/,602,0,543
+1706841713030,424,HTTP Request-1,200,OK,Thread Group of 20 users 1-2,text,true,,20511,119,6,6,https://www.google.com/,382,0,298
+1706841712918,541,HTTP Request,200,OK,Thread Group of 20 users 1-4,text,true,,21354,234,4,4,https://www.google.com/,270,0,130
+1706841712304,1156,HTTP Request,200,OK,Thread Group of 20 users 1-1,text,true,,21387,234,4,4,https://www.google.com/,716,0,655
+1706841712918,271,HTTP Request-0,301,Moved Permanently,Thread Group of 20 users 1-4,text,true,,832,115,4,4,https://google.com/,270,0,130
+1706841712304,724,HTTP Request-0,301,Moved Permanently,Thread Group of 20 users 1-1,text,true,,832,115,4,4,https://google.com/,716,0,655
+1706841713189,270,HTTP Request-1,200,OK,Thread Group of 20 users 1-4,text,true,,20522,119,4,4,https://www.google.com/,223,0,140
+1706841713030,430,HTTP Request-1,200,OK,Thread Group of 20 users 1-1,text,true,,20555,119,4,4,https://www.google.com/,383,0,297
+1706841713166,462,HTTP Request,200,OK,Thread Group of 20 users 1-5,text,true,,21337,234,2,2,https://www.google.com/,212,0,153
+1706841713166,212,HTTP Request-0,301,Moved Permanently,Thread Group of 20 users 1-5,text,true,,832,115,2,2,https://google.com/,212,0,153
+1706841713382,246,HTTP Request-1,200,OK,Thread Group of 20 users 1-5,text,true,,20505,119,2,2,https://www.google.com/,229,0,144
+1706841713414,441,HTTP Request,200,OK,Thread Group of 20 users 1-6,text,true,,21396,234,2,2,https://www.google.com/,188,0,140
+1706841713414,188,HTTP Request-0,301,Moved Permanently,Thread Group of 20 users 1-6,text,true,,832,115,2,2,https://google.com/,188,0,140
+1706841713603,252,HTTP Request-1,200,OK,Thread Group of 20 users 1-6,text,true,,20564,119,2,2,https://www.google.com/,210,0,134
+1706841713663,531,HTTP Request,200,OK,Thread Group of 20 users 1-7,text,true,,21420,234,3,3,https://www.google.com/,253,0,204
+1706841713663,253,HTTP Request-0,301,Moved Permanently,Thread Group of 20 users 1-7,text,true,,832,115,3,3,https://google.com/,253,0,204
+1706841713917,277,HTTP Request-1,200,OK,Thread Group of 20 users 1-7,text,true,,20588,119,3,3,https://www.google.com/,227,0,143
+1706841713917,464,HTTP Request,200,OK,Thread Group of 20 users 1-8,text,true,,21381,234,2,2,https://www.google.com/,178,0,133
+1706841713917,178,HTTP Request-0,301,Moved Permanently,Thread Group of 20 users 1-8,text,true,,832,115,2,2,https://google.com/,178,0,133
+1706841714096,285,HTTP Request-1,200,OK,Thread Group of 20 users 1-8,text,true,,20549,119,2,2,https://www.google.com/,239,0,156
+1706841714168,387,HTTP Request,200,OK,Thread Group of 20 users 1-9,text,true,,21350,234,2,2,https://www.google.com/,186,0,135
+1706841714168,186,HTTP Request-0,301,Moved Permanently,Thread Group of 20 users 1-9,text,true,,832,115,2,2,https://google.com/,186,0,135
+1706841714355,200,HTTP Request-1,200,OK,Thread Group of 20 users 1-9,text,true,,20518,119,2,2,https://www.google.com/,165,0,94
+1706841714414,417,HTTP Request,200,OK,Thread Group of 20 users 1-10,text,true,,21400,234,2,2,https://www.google.com/,183,0,139
+1706841714414,183,HTTP Request-0,301,Moved Permanently,Thread Group of 20 users 1-10,text,true,,832,115,2,2,https://google.com/,183,0,139
+1706841714598,233,HTTP Request-1,200,OK,Thread Group of 20 users 1-10,text,true,,20568,119,2,2,https://www.google.com/,203,0,123
+1706841714663,403,HTTP Request,200,OK,Thread Group of 20 users 1-11,text,true,,21335,234,2,2,https://www.google.com/,170,0,125
+1706841714663,170,HTTP Request-0,301,Moved Permanently,Thread Group of 20 users 1-11,text,true,,832,115,2,2,https://google.com/,170,0,125
+1706841714834,232,HTTP Request-1,200,OK,Thread Group of 20 users 1-11,text,true,,20503,119,2,2,https://www.google.com/,205,0,129
+1706841715162,473,HTTP Request,200,OK,Thread Group of 20 users 1-13,text,true,,21326,234,3,3,https://www.google.com/,195,0,132
+1706841715162,195,HTTP Request-0,301,Moved Permanently,Thread Group of 20 users 1-13,text,true,,832,115,3,3,https://google.com/,195,0,132
+1706841715358,277,HTTP Request-1,200,OK,Thread Group of 20 users 1-13,text,true,,20494,119,3,3,https://www.google.com/,234,0,148
+1706841715417,429,HTTP Request,200,OK,Thread Group of 20 users 1-14,text,true,,21366,234,3,3,https://www.google.com/,173,0,129
+1706841715417,173,HTTP Request-0,301,Moved Permanently,Thread Group of 20 users 1-14,text,true,,832,115,3,3,https://google.com/,173,0,129
+1706841715591,255,HTTP Request-1,200,OK,Thread Group of 20 users 1-14,text,true,,20534,119,3,3,https://www.google.com/,212,0,134
+1706841715668,429,HTTP Request,200,OK,Thread Group of 20 users 1-15,text,true,,21358,234,3,3,https://www.google.com/,188,0,135
+1706841715668,189,HTTP Request-0,301,Moved Permanently,Thread Group of 20 users 1-15,text,true,,832,115,3,3,https://google.com/,188,0,135
+1706841715857,240,HTTP Request-1,200,OK,Thread Group of 20 users 1-15,text,true,,20526,119,3,3,https://www.google.com/,204,0,126
+1706841714912,1326,HTTP Request,200,OK,Thread Group of 20 users 1-12,text,true,,21313,234,3,3,https://www.google.com/,189,0,137
+1706841714912,189,HTTP Request-0,301,Moved Permanently,Thread Group of 20 users 1-12,text,true,,832,115,3,3,https://google.com/,189,0,137
+1706841715101,1137,HTTP Request-1,200,OK,Thread Group of 20 users 1-12,text,true,,20481,119,3,3,https://www.google.com/,1130,0,131
+1706841715914,517,HTTP Request,200,OK,Thread Group of 20 users 1-16,text,true,,21334,234,3,3,https://www.google.com/,178,0,129
+1706841715914,178,HTTP Request-0,301,Moved Permanently,Thread Group of 20 users 1-16,text,true,,832,115,3,3,https://google.com/,178,0,129
+1706841716094,337,HTTP Request-1,200,OK,Thread Group of 20 users 1-16,text,true,,20502,119,3,3,https://www.google.com/,300,0,170
+1706841716162,412,HTTP Request,200,OK,Thread Group of 20 users 1-17,text,true,,21393,234,2,2,https://www.google.com/,159,0,110
+1706841716162,159,HTTP Request-0,301,Moved Permanently,Thread Group of 20 users 1-17,text,true,,832,115,2,2,https://google.com/,159,0,110
+1706841716322,252,HTTP Request-1,200,OK,Thread Group of 20 users 1-17,text,true,,20561,119,2,2,https://www.google.com/,215,0,132
+1706841716412,475,HTTP Request,200,OK,Thread Group of 20 users 1-18,text,true,,21350,234,2,2,https://www.google.com/,205,0,136
+1706841716412,205,HTTP Request-0,301,Moved Permanently,Thread Group of 20 users 1-18,text,true,,832,115,2,2,https://google.com/,205,0,136
+1706841716618,269,HTTP Request-1,200,OK,Thread Group of 20 users 1-18,text,true,,20518,119,2,2,https://www.google.com/,227,0,142
+1706841716664,327,HTTP Request,200,OK,Thread Group of 20 users 1-19,text,true,,21406,234,2,2,https://www.google.com/,147,0,108
+1706841716664,147,HTTP Request-0,301,Moved Permanently,Thread Group of 20 users 1-19,text,true,,832,115,2,2,https://google.com/,147,0,108
+1706841716812,179,HTTP Request-1,200,OK,Thread Group of 20 users 1-19,text,true,,20574,119,2,2,https://www.google.com/,148,0,79
+1706841716912,424,HTTP Request,200,OK,Thread Group of 20 users 1-20,text,true,,21321,234,1,1,https://www.google.com/,195,0,144
+1706841716912,196,HTTP Request-0,301,Moved Permanently,Thread Group of 20 users 1-20,text,true,,832,115,1,1,https://google.com/,195,0,144
+1706841717108,228,HTTP Request-1,200,OK,Thread Group of 20 users 1-20,text,true,,20489,119,1,1,https://www.google.com/,211,0,135
