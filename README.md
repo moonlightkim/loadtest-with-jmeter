@@ -40,8 +40,11 @@ This repo shows how to use JMeter for performance testing.
 - Refer to folder "Simulate User Interaction Test Case" in this repo for the test case file.
 
 # Generate HTML reports on the test
-- Refer [Detail note](https://gigantic-handle-104.notion.site/JMeter-vs-Locust-Report-e8156734c7a34fbab098ef8ba4fb4394) to on section "HTML reports"
+- Refer [Detail note](https://gigantic-handle-104.notion.site/JMeter-vs-Locust-Report-e8156734c7a34fbab098ef8ba4fb4394) on section "HTML reports"
 - Refer to folder "Simulate User Interaction Test Case/reports" or "Test Case with reports" in this repo for the reports.
+
+# Replicate ReceiveById of mcportal project
+- Refer [Detail note](https://gigantic-handle-104.notion.site/JMeter-vs-Locust-Report-e8156734c7a34fbab098ef8ba4fb4394) on section "Work with test data"
 
 
 # Reference
