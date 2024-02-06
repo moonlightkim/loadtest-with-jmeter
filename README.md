@@ -45,6 +45,7 @@ This repo shows how to use JMeter for performance testing.
 
 # Replicate ReceiveById of mcportal project
 - Refer [Detail note](https://gigantic-handle-104.notion.site/JMeter-vs-Locust-Report-e8156734c7a34fbab098ef8ba4fb4394) on section "Work with test data"
+- Refer to folder "Receive By ID Test Case" in this repo.
 
 
 # Reference
