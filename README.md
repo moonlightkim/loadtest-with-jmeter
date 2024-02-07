@@ -44,8 +44,10 @@ This repo shows how to use JMeter for performance testing.
 - Refer to folder "Simulate User Interaction Test Case/reports" or "Test Case with reports" in this repo for the reports.
 
 # Replicate ReceiveById of mcportal project
-- Refer [Detail note](https://gigantic-handle-104.notion.site/JMeter-vs-Locust-Report-e8156734c7a34fbab098ef8ba4fb4394) on section "Work with test data"
+- Refer [Detail note](https://gigantic-handle-104.notion.site/JMeter-vs-Locust-Report-e8156734c7a34fbab098ef8ba4fb4394) on section "Test on Receive by ID"
 - Refer to folder "Receive By ID Test Case" in this repo.
+    - Open `loadTestReceiveByIDWithDynamicData.jmx` for the **full test scenario** just like in Locust project.
+    - In `loadTestReceiveByIDWithPredefinedData.jmx`, I generate tokens.csv from outside to use. So it is not the full test scenario.
 
 
 # Reference
