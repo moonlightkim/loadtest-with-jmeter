@@ -49,6 +49,9 @@ This repo shows how to use JMeter for performance testing.
     - Open `loadTestReceiveByIDWithDynamicData.jmx` for the **full test scenario** just like in Locust project.
     - In `loadTestReceiveByIDWithPredefinedData.jmx`, I generate tokens.csv from outside to use. So it is not the full test scenario.
 
+# Performance Metrics Explanation
+- It is important to understand the report generated after running a load test.
+- Refer to [Detail note](https://gigantic-handle-104.notion.site/JMeter-vs-Locust-Report-e8156734c7a34fbab098ef8ba4fb4394) on section "Report Explanation"
 
 # Reference
 - [Detail note](https://gigantic-handle-104.notion.site/JMeter-vs-Locust-Report-e8156734c7a34fbab098ef8ba4fb4394)
